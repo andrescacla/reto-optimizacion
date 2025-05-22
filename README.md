@@ -6,7 +6,10 @@
 ```js
 npm i
 ```
-- para correr la app "npm run dev"
+- para ejecutar la aplicación
+```js
+npm run dev
+```
 
 ## El reto consiste en optimizar el renderizado del componente "ListPokemones.tsx" para que solo sea renderizado cuando sus propiedades cambien
 
